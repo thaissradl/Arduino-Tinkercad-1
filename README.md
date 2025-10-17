@@ -1,7 +1,7 @@
 # Projeto Arduino - Tinkercad
 
 💡 **Descrição:**
-Exercício desenvolvido no **Tinkercad** com **Arduino**. Ele faz duas luz (LED) piscar juntas. alternando entre ligado e desligado a cada segundo.
+Exercício desenvolvido no **Tinkercad** com **Arduino**. o LED pisca ligando 1 segundo, desligando 1 segundo, repetidamente
 Projeto realizado durante o **2º semestre da faculdade (2023/2)**, como parte das aulas práticas.
 Ficou um tempo guardado até eu finalmente decidir postar este e outros exercícios feitos com Arduino. 🚀
 
